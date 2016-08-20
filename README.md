@@ -113,5 +113,5 @@ mit.sonata.com/login
 
 url for frontend
 -------------------------------
-mit.sonata.com/home
+mit.sonata.com
 
